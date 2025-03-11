@@ -1,1 +1,1 @@
-Basic mp4 downloader frontend for @distube/ytdl-core
+Minimal mp4 downloader frontend for @distube/ytdl-core
